@@ -1,0 +1,26 @@
+{
+  "name": "wa_vjezbe",
+  "version": "1.0.0",
+  "description": "Vježbe iz kolegija Web aplikacije",
+  "homepage": "https://github.com/davor-sk/WA_vjezbe#readme",
+  "bugs": {
+    "url": "https://github.com/davor-sk/WA_vjezbe/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davor-sk/WA_vjezbe.git"
+  },
+  "license": "ISC",
+  "author": "Davor",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

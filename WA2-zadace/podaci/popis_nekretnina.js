@@ -1,0 +1,38 @@
+export let nekretnine = [
+  {
+    id: 1,
+    naziv: "Stan",
+    opis: "Četverosobni prostrani stan",
+    cijena: 190000,
+    lokacija: "Zagreb",
+    broj_soba: 4,
+    povrsina: 89,
+  },
+  {
+    id: 2,
+    naziv: "Kuća",
+    opis: "Kuća s okučnicom",
+    cijena: 120000,
+    lokacija: "Samobor",
+    broj_soba: 6,
+    povrsina: 119,
+  },
+  {
+    id: 3,
+    naziv: "Zemljište",
+    opis: "Građevisnko zemljište",
+    cijena: 80000,
+    lokacija: "Sveta Nedelja",
+    broj_soba: 0,
+    povrsina: 80,
+  },
+  {
+    id: 4,
+    naziv: "Stan",
+    opis: "Dvosobni  stan",
+    cijena: 90000,
+    lokacija: "Zagreb",
+    broj_soba: 2,
+    povrsina: 64,
+  },
+];
